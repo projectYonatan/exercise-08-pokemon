@@ -21,7 +21,7 @@ All screen should have the same header, the header contains breadcrumb (https://
 3. choose your Pokemon (from the `varieties` property found in the returned answer requests the API of the previous step)
     - After choosing progress is 100%
 
-4. Pokemon - show be a modal (https://getbootstrap.com/docs/5.0/components/modal/#modal-components) 
+4. Pokemon - View card (https://getbootstrap.com/docs/5.0/components/card/) inside Modal (https://getbootstrap.com/docs/5.0/components/modal/#modal-components) and inside the card Inside Modal view the details and image of the selected Pokemon
     - Modal have back button that closes modal
     - Modal have reset button that restrat the process (Screen 1 is up) 
 
