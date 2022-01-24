@@ -15,10 +15,10 @@ All screen should have the same header, the header contains breadcrumb (https://
 1. Choose your shape
     - After choosing progress is 33%
 
-2. Choose you species (from shape response `pokemon_species`)
+2. Choose you species (from the `pokemon_species` property found in the returned answer requests the API of the previous step)
     - After choosing progress is 66%
 
-3. choose your Pokemon (from species response `varieties`)
+3. choose your Pokemon (from the `varieties` property found in the returned answer requests the API of the previous step)
     - After choosing progress is 100%
 
 4. Pokemon - show be a modal (https://getbootstrap.com/docs/5.0/components/modal/#modal-components) 
