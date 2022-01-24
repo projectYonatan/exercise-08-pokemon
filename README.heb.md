@@ -1,5 +1,5 @@
 <div dir="rtl">
-  # פוקימון
+# פוקימון
 
 תרגיל זה הוא חלק ממאגר התרגילים שנמצא בכתובת https://github.com/YaakovHatam/exercises
 
