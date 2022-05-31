@@ -33,7 +33,9 @@ All screen should have the same header, the header contains breadcrumb (https://
 - Pokemon: `get` https://pokeapi.co/api/v2/pokemon/:id
 
 ## Example
-https://github.com/YaakovHatam/exercise-08-pokemon/blob/master/example.webm
+![Example](https://github.com/YaakovHatam/exercise-08-pokemon/blob/master/example.gif)
+
+
 
 ## Extras
 - Save the responses in Objects for caching
